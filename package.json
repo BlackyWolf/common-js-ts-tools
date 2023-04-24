@@ -17,6 +17,7 @@
         "typescript": "^5.0.4"
     },
     "files": ["lib/**/*"],
+    "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/BlackyWolf/common-js-ts-tools.git"
