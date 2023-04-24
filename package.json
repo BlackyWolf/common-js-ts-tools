@@ -1,6 +1,6 @@
 {
     "name": "common-js-ts-tools",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A set of common JS/TS tools I kept recreating for almost every project.",
     "main": "index.js",
     "author": {
