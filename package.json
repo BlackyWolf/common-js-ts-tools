@@ -10,11 +10,13 @@
     "license": "MIT",
     "scripts": {
         "build": "tsc",
+        "prepare": "npm run build",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "devDependencies": {
         "typescript": "^5.0.4"
     },
+    "files": ["lib/**/*"],
     "repository": {
         "type": "git",
         "url": "git+https://github.com/BlackyWolf/common-js-ts-tools.git"
