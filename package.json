@@ -1,0 +1,27 @@
+{
+    "name": "common-js-ts-tools",
+    "version": "0.1.0",
+    "description": "A set of common JS/TS tools I kept recreating for almost every project.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BlackyWolf/common-js-ts-tools.git"
+    },
+    "keywords": [
+        "js",
+        "ts",
+        "javascript",
+        "typescript",
+        "tools",
+        "common"
+    ],
+    "author": "Blacky Wolf",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/BlackyWolf/common-js-ts-tools/issues"
+    },
+    "homepage": "https://github.com/BlackyWolf/common-js-ts-tools#readme"
+}
