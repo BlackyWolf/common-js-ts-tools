@@ -1,8 +1,10 @@
 {
     "name": "common-js-ts-tools",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "A set of common JS/TS tools I kept recreating for almost every project.",
-    "main": "index.js",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "files": ["lib/**/*"],
     "author": {
         "name": "Blacky Wolf",
         "url": "https://blackywolf.me"
@@ -16,8 +18,6 @@
     "devDependencies": {
         "typescript": "^5.0.4"
     },
-    "files": ["lib/**/*"],
-    "types": "lib/index.d.ts",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/BlackyWolf/common-js-ts-tools.git"
