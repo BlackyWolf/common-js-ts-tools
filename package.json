@@ -3,8 +3,17 @@
     "version": "0.1.0",
     "description": "A set of common JS/TS tools I kept recreating for almost every project.",
     "main": "index.js",
+    "author": {
+        "name": "Blacky Wolf",
+        "url": "https://blackywolf.me"
+    },
+    "license": "MIT",
     "scripts": {
+        "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.4"
     },
     "repository": {
         "type": "git",
@@ -18,8 +27,6 @@
         "tools",
         "common"
     ],
-    "author": "Blacky Wolf",
-    "license": "MIT",
     "bugs": {
         "url": "https://github.com/BlackyWolf/common-js-ts-tools/issues"
     },
